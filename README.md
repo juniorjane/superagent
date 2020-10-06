@@ -207,7 +207,6 @@ Please prefix your plugin with `superagent-*` so that it can easily be found by 
 
 For SuperAgent extensions such as couchdb and oauth visit the [wiki](https://github.com/visionmedia/superagent/wiki).
 
-
 ## Upgrading from previous versions
 
 Our breaking changes are mostly in rarely used functionality and from stricter error handling.
